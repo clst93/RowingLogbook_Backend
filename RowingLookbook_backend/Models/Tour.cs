@@ -17,11 +17,11 @@ namespace RowingLookbook_backend.Models
         {
             get; set;
         }
-        public string TourStartplace
+        public string TourStartPlace
         {
             get; set;
         }
-        public string TourStopplace
+        public string TourStopPlace
         {
             get; set;
         }
