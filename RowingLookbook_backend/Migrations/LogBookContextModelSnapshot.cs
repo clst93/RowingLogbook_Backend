@@ -13,7 +13,7 @@ namespace RowingLookbook_backend.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "5.0.3");
+                .HasAnnotation("ProductVersion", "5.0.4");
 
             modelBuilder.Entity("RowingLookbook_backend.Models.Person", b =>
                 {
@@ -71,15 +71,15 @@ namespace RowingLookbook_backend.Migrations
                     b.Property<string>("MemberTwo")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("TourStartplace")
+                    b.Property<string>("TourStartPlace")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("TourStopplace")
+                    b.Property<string>("TourStopPlace")
                         .HasColumnType("TEXT");
 
                     b.HasKey("TourID");
 
-                    b.ToTable("TourStarted");
+                    b.ToTable("Tours");
                 });
 #pragma warning restore 612, 618
         }

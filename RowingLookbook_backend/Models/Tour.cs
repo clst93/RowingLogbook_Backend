@@ -17,53 +17,53 @@ namespace RowingLookbook_backend.Models
         {
             get; set;
         }
-        public string TourStartPlace
-        {
-            get; set;
-        }
-        public string TourStopPlace
-        {
-            get; set;
-        }
-        public int BoatDriverID
-        {
-            get; set;
-        }
-        public string MemberOne
-        {
-            get; set;
-        }
-        public string MemberTwo
-        {
-            get; set;
-        }
-        public string MemberThree
-        {
-            get; set;
-        }
-        public string MemberFour
-        {
-            get; set;
-        }
-        public string MemberFive
-        {
-            get; set;
-        }
-        public string MemberSix
-        {
-            get; set;
-        }
-        public string MemberSeven
-        {
-            get; set;
-        }
-        public string MemberEight
-        {
-            get; set;
-        }
-        public string MemberNine
-        {
-            get; set;
-        }
+        //public string TourStartPlace
+        //{
+        //    get; set;
+        //}
+        //public string TourStopPlace
+        //{
+        //    get; set;
+        //}
+        //public int BoatDriverID
+        //{
+        //    get; set;
+        //}
+        //public string MemberOne
+        //{
+        //    get; set;
+        //}
+        //public string MemberTwo
+        //{
+        //    get; set;
+        //}
+        //public string MemberThree
+        //{
+        //    get; set;
+        //}
+        //public string MemberFour
+        //{
+        //    get; set;
+        //}
+        //public string MemberFive
+        //{
+        //    get; set;
+        //}
+        //public string MemberSix
+        //{
+        //    get; set;
+        //}
+        //public string MemberSeven
+        //{
+        //    get; set;
+        //}
+        //public string MemberEight
+        //{
+        //    get; set;
+        //}
+        //public string MemberNine
+        //{
+        //    get; set;
+        //}
     }
 }
