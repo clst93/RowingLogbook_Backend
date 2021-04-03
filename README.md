@@ -29,5 +29,5 @@ API:
         Fahrten auflisten ( aktive, alle, )
 
     Reservierungen
-        Schnittstelle( BootID, Start DateTime, Ende DateTime, Angemeldeter User).
+        Schnittstelle( BootID, Start DateTime, Ende DateTime, Angemeldeter User)
         
