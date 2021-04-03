@@ -19,6 +19,8 @@ todo:
 
 -statistik über boote
 
+-buildt von angualar mit c# buildt mitbauen. es soll nicht ein angular und ein c#-server exisitieren
+
 API: 
     Boote: 
         wie Personen
